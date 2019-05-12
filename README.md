@@ -1,0 +1,4 @@
+# Nexter
+Advanced CSS and SASS : Nexter Project
+
+CSS and SASS Project that teaches CSS grid. CSS grid and a bit of flexbox was used for this project.
